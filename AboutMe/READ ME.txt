@@ -1,2 +1,2 @@
 Weblink to my profile page
-https://nowaywei.github.io/WeisProfile/Profile.html
+https://nowaywei.github.io/WeisProfile/AboutMe/Profile.html
